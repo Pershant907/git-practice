@@ -1,3 +1,6 @@
 My name is Pershant Parkash.
 This is my first github assignment.
 I'm learning git and github.
+
+Updated branch text:
+I am practicing branching in git!
