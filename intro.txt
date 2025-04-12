@@ -4,3 +4,8 @@ I'm learning git and github.
 
 Updated branch text:
 I am practicing branching in git!
+
+Partner Info:
+My name is Anish Kumar.
+This is my first github assignment.
+I'm learning git and github.
